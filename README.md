@@ -1,5 +1,18 @@
-First  File Consists the icons used for Quiz 
-Second File whose name is Login opens the Login page for starting the quiz.
-Third File whose name is Rules opens the Rule Page to show the rules of the quiz to user before playing the quiz.
-Fourth File includes the main screen to play the quiz by user It shows questions and beside question there is three options which are nex ,50 50 linetime,Submit and also 15 minutes timing is also fixed for each question.
-Fifth file includes the Score that shows the user how much they occur after completion of an quiz.
+## Getting Started
+
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+
+## Folder Structure
+
+The workspace contains two folders by default, where:
+
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
+
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+
+## Dependency Management
+
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
